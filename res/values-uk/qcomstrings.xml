@@ -308,7 +308,13 @@
     <string name="pref_camera2_shutter_sound_entry_off">Вимкнено</string>
     <string name="pref_camera2_shutter_sound_title">Звук затвору</string>
     <string name="pref_camera2_timer_entry_off">Вимкнено</string>
+    <string name="pref_camera2_saveraw_title">Зберегти в форматі RAW</string>
     <string name="makeup_ui_ok_button">OK</string>
+    <string name="perf_camera2_version_info">Версія</string>
+    <string name="perf_camera2_preferences_category_general">Загальні</string>
+    <string name="perf_camera2_preferences_category_photo">Фотокамера</string>
+    <string name="perf_camera2_preferences_category_video">Відеокамера</string>
+    <string name="perf_camera2_preferences_category_system">Система</string>
     <string name="pref_camera2_scene_mode_instructional_ok">OK</string>
     <string name="pref_camera2_instant_aec_entry_disable">Вимкнути</string>
     <string name="pref_camera2_instant_aec_entry_aggressive">Агресивний АЕC</string>
@@ -347,5 +353,8 @@
     <string name="pref_camera2_bsgc_entry_disable">Вимкнути</string>
     <string name="pref_camera2_zsl_title">Нульова затримка затвору</string>
     <string name="pref_camera2_zsl_entry_disable">Вимкнено</string>
+    <string name="pref_camera2_zsl_entry_app_zsl">Програмний ZSL</string>
+    <string name="pref_camera2_zsl_entry_hal_zsl">Апаратний ZSL</string>
+    <string name="pref_camera2_switch_camera_title">Переключити камеру по ID</string>
     <string name="pref_camera2_initial_camera_entry_mono">Монохром</string>
 </resources>
